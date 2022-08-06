@@ -6,7 +6,7 @@
 
 - My name is Ajor Moses, I'm a student of zuri academy, This is a readme file containing the links to my assignments.
 
-## Link (I need Industry Experience)
+## Link TASK 1 (I need Industry Experience)
 
 - Solution URL: [ https://github.com/ajormoses/zuri-landing-page-1 ]
 - Live Site URL: [https://zuri-landing-page1.netlify.app// ]
