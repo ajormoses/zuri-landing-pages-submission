@@ -1,6 +1,6 @@
 # ZURI ACADEMY REPO SUBMISSION
 
-![Design preview for the I need industry experience and I’m new to the industry page](./design/assignment.JPG)
+![Design preview for the I need industry experience and I’m new to the industry page](./design/Assignment.JPG)
 
 ## Overview
 
