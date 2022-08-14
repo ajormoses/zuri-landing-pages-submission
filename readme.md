@@ -11,6 +11,11 @@
 - Solution URL: [ https://github.com/ajormoses/zuri-landing-page-1 ]
 - Live Site URL: [https://zuri-landing-page1.netlify.app// ]
 
+## Link TASK 2 (I'm new to the industry page)
+
+- Solution URL: [ https://github.com/ajormoses/zuri-landing-page-2 ]
+- Live Site URL: [https://zuri-landing-page2.netlify.app ]
+
 ## Author
 
 - Github page: [ https://github.com/ajormoses ]
